@@ -1,0 +1,28 @@
+{
+  "name": "todo-nodejs",
+  "version": "1.0.0",
+  "description": "Todo console app created in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanmeGarcia/todo-nodejs.git"
+  },
+  "keywords": [
+    "Todo-app",
+    "nodejs"
+  ],
+  "author": "Garcia Carballo <jmgcasd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanmeGarcia/todo-nodejs/issues"
+  },
+  "homepage": "https://github.com/JuanmeGarcia/todo-nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  }
+}
